@@ -1,5 +1,5 @@
 **Full time university student.**<br>
-***Future major in cyber security, network engineering, digital foresics***<br>
+***Future major in cyber security, network engineering, digital forensics***<br>
 
 Current Languages:
 C#, PHP, Python, JS, HTML, CSS, C++<br>
