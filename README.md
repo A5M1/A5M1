@@ -16,9 +16,11 @@
       <ul>USDC: CpwxpRCtBnFL5zaWhjAyUkUPHYfdKDvPy</ul>
    </div>
    <br>
-   <b>You can also visit my shitty website <a href="https://abby0666.xyz">here</a></b><br>
-   <b>Email me <a href="mailto:0xffff0004@proton.me">here</a></b>
-   <!--ill fix this later, i have my Comp Sci class in 15 min.--->
+   <b>You can also visit my shitty website <a href="https://abby0666.xyz">here</a><br>
+       Email me <a href="mailto:0xffff0004@proton.me">here</a><br>
+       Join my shitcord <a href="https://discord.gg/6ub8PmgK">here</a>
+   </b>
+   <!--ill fix this later. (never)--->
 </div>
 
 ![download (1)](https://github.com/https433/https433/assets/101961638/3fcd4a61-c996-4ae2-8f9f-4cebde22021b)
