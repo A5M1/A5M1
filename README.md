@@ -4,7 +4,7 @@
    <h3>Languages:</h3>
    <p>C#, PHP, Python, JS/TS, HTML, CSS, C++/C,</p>
    <h3>Learning:</h3>
-   <p>x86asm, Rust, Go (why x86 in particular? well, i hate myself</p>
+   <p>x86asm, Rust, Go (why asm in particular? well, i hate myself)</p>
    <div>
       <h3>Wallet addresses to waist ur crypto on me</h3>
       <p>(i need food tho ramen only goes so far).</p>
