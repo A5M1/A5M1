@@ -2,7 +2,7 @@
    <h1><b>19yo Full time university student.</b></h1>
    <b><i>Future major in cyber security, network engineering, digital forensics</i></b><br>
    <h3>Languages:</h3>
-   <p>C#, PHP, Python, JS/TS, HTML, CSS, C++/C,</p>
+   <p>C#, PHP, Python, JS/TS, HTML, CSS, C++/C</p>
    <h3>Learning:</h3>
    <p>x86asm, Rust, Go (why asm in particular? well, i hate myself)</p>
    <div>
