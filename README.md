@@ -4,7 +4,7 @@
    <h3>Languages:</h3>
    <p>C#, Python, C++/C, Java, Powershell</p>
    <h3>Web Languages</h3>
-   <p>PHP, JS/TS, HTML, CSS,</p>
+   <p>PHP, JS/TS, HTML, CSS</p>
    <h3>Learning:</h3>
    <p>x64/86asm, Rust, Go (why asm in particular? well, i hate myself)</p>
    <div>
