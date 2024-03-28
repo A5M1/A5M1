@@ -6,7 +6,7 @@
    <h3>Web Languages</h3>
    <p>PHP, JS/TS, HTML, CSS</p>
    <h3>Learning:</h3>
-   <p>x64/86asm, Rust, Go (why asm in particular? well, i hate myself)</p>
+   <p>Assembly (why? well, i hate myself), Rust, Go </p>
    <div>
       <h3>Wallet addresses to waist ur crypto on me</h3>
       <p>(i need food tho ramen only goes so far).</p>
