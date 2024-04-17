@@ -20,7 +20,6 @@
    <br>
    <b>You can also visit my shitty website <a href="https://abby0666.xyz">here</a><br>
        Email me <a href="mailto:0xffff0004@proton.me">here</a><br>
-       Join my shitcord <a href="https://discord.gg/6ub8PmgK">here</a>
    </b>
    <!--ill fix this later. (never)--->
 </div>
