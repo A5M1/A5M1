@@ -9,5 +9,5 @@
 <a href="https://github.com/https433">
   <img height="200" width="700px" align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=https433&bg_color=0b090a&color=ffffff&line=83447f&point=ffffff&area=true&hide_border=true" />
 </a>
-<p>Read about<a href="https://abby0666.xyz/about.html"> me
-</a></p>
+<!-- <p>Read about<a href="https://abby0666.xyz/about.html"> me 
+</a></p>-->
