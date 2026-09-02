@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm abn</h1>
 <h3 align="center">i make shitty apps, occasionally i'm funny</h3>
-
-<p align="left">
+<br>
+<p>im a 10x world champion clown, cybersecurity student in California, interested in windows internals / malware / other security interests, low level embedded programming, operating system development, game development, and cryptography. </p>
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=a5m&label=Profile%20views&color=070808&style=flat-square" alt="a5m" />
 </p>
 
-<p align="left">
+<p align="center">
   <!-- Languages -->
   <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%2Fid%2FOIP.D9VpglAd78yejKdzTXdJYQHaHa%3Fpid%3DApi&f=1&ipt=d47b460626f290ca50182435c1d753f5603f1492be7092f76dcb256e336093bf" alt="assembly" width="40" height="40"/>
   <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.pngkey.com%2Fpng%2Ffull%2F479-4794953_assembly-x86-x86-icon.png&f=1&nofb=1&ipt=578cced6f35a936036891f69383a727dad3732e4e98e12dfc8497126001eb7c4" alt="assembly" width="40" height="40"/>
