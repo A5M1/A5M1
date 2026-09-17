@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm abn</h1>
+<h1 align="center">Hi 👋, I'm ava aka abn</h1>
 <h3 align="center">i make shitty apps, occasionally i'm funny</h3>
 <br>
 <p>im a 10x world champion clown, cybersecurity student in California, interested in windows internals / malware / other security interests, low level embedded programming, operating system development, game development, and cryptography. </p>
